@@ -1,8 +1,13 @@
 # Minimum Data, by EmbryoID
 
 This data is a subset of the cell annotations from Cao, et al.
+ - Matt
 
-STEPS:
+Cao, et al
+_The single-cell transcriptional landscape of mammalian organogenesis_
+Nature. 2019 Feb;566(7745):496-502. doi: 10.1038/s41586-019-0969-x. Epub 2019 Feb 20.
+
+## STEPS:
 
 1. Start with cell_annotation.csv link from https://oncoscape.v3.sttrcancer.org/atlas.gs.washington.edu.mouse.rna/downloads.
 
