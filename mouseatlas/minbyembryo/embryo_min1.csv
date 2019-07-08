@@ -1,4 +1,4 @@
-Embryo,Stage,mtX,mtY,mtZ
+embryoId,stage,cellType,mtX,mtY,mtZ
 1,9.5,Early_mesenchyme,1.40895712,0.82061217,1.12397943
 1,9.5,Radial_glia,1.90116105,0.78791278,0.53364623
 1,9.5,Oligodendrocyte_Progenitors,1.57265990,1.43854331,1.32853033
